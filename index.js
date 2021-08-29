@@ -25,7 +25,7 @@
 
         channel.send(`●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\nSzió ! ${member} köszönjük hogy be léptél a szerverünkre!Ha bármi kérdésed van kérdezz bátran!Ha van lehetőséged fusd át a szabályok szobát!😘\n●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●!`)
     });
-client.login('ODM5Nzk1MzAzMDYyMDQ0Njky.YJO2Ug.PwP03XVSQLk7uG_dJl1GWk08DIg'); //PLEASE PUT YOU'RE BOT'S CLIENT ID HERE OR YOUR BOT WILL NOT WORK
+client.login('A TE TOKENED'); //PLEASE PUT YOU'RE BOT'S CLIENT ID HERE OR YOUR BOT WILL NOT WORK
 
 //If you have node.js and know how it works, please in command promt go to the folder that the script is in-
 //and type "node .". Hopefully the bot should work. Happy coding!
